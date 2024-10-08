@@ -33,7 +33,8 @@ Added Android device in that page and submitting process is worked
 ![Android OS detail Page](https://github.com/user-attachments/assets/d5d2dde9-2d3c-441b-b625-1a1a3b95de1e)
 
 QR code Scanner page:
-Inside the home page the QR scanner icon is able to click and it is navigate to QR code Scanner page and successfully scan the QR code and Barcode
+Inside the home page the QR scanner icon is able to click and it is navigate to QR code Scanner page
+and successfully scan the QR code and Barcode
 ![QR Scanner page](https://github.com/user-attachments/assets/118938dd-4f6b-465b-a724-00ee6d215fab)
 
 QR Scanning process while Flash off mode:
