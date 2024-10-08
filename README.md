@@ -45,3 +45,6 @@ QR Scanning process while Flash on mode:
 In Flash on mode the QR Scanning is worked 
 ![QR code Flash on mode](https://github.com/user-attachments/assets/8f68c959-8138-4562-98be-bd3eb8b9ba1f)
 
+Back Button Working procees:
+Inside Add Device page and QR code Scanner page The Back Icon functionality is worked perfectly
+No issues yet
